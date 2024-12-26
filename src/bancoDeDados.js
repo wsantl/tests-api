@@ -19,4 +19,4 @@ function getProdutos() {
     return Object.values(produtos)
 }
 
-module.exports = { salvarProduto, getProduto, getProdutos}
+module.exports = { salvarProduto, getProduto, getProdutos }
